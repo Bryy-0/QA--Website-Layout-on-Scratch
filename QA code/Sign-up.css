@@ -64,3 +64,8 @@ p{
 .para-2 a{
     color: #49c1a2;
 }
+.container {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}
