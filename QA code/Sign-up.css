@@ -59,13 +59,8 @@ p{
     color: white;
     font-size: 15px;
     margin-top: -10px;
-    margin-right: 175px;
+    margin-right: 145px;
 }
 .para-2 a{
     color: #49c1a2;
-}
-.container {
-    display: flex;
-    align-items: center;
-    font-size: 30px;
 }
