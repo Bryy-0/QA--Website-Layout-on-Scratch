@@ -23,7 +23,6 @@ body{
     font-weight: 500;
     border-radius: 30px;
     position: absolute;
-    bottom: 500px;
 
 }
 .popup{
@@ -71,28 +70,4 @@ body{
     border-radius: 4px;
     cursor: pointer;
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
-}
-.signup-box{
-    width: 360px;
-    height: 620px;
-    background-color: white;
-    position: absolute;
-    top: 120px;
-}
-form{
-    width: 300px;
-    margin-left: 20px;
-}
-form label{
-    display: flex;
-    margin-top: 20px;
-    font-size: 18px;
-}
-form input{
-    width: 100%;
-    padding: 7px;
-    border: none;
-    border: 1px solid gray;
-    border-radius: 6px;
-    outline: none;
 }
