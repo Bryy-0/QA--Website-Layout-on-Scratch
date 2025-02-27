@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    justify-content: space-between; /* Distributes space between left and right sections */
+    align-items: center; /* Vertically centers the items */
+    padding: 10px; /* Adds some padding */
+    background-color: #f8f8f8; /* Optional: background color for the nav */
+}
+
+.nav-left {
+    position: absolute;
+    left: 0;
+}
+
+.nav-right {
+    position: absolute;
+    right: 30px;
+}
+
+nav a {
+    text-decoration: none; /* Removes underline from links */
+    color: #333; /* Sets link color */
+    margin-left: 10px; /* Adds space between links */
+}
+
+nav a:hover {
+    text-decoration: underline; /* Optional: underline on hover */
+}
